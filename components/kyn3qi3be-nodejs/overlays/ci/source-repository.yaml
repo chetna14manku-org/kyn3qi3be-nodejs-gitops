@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: kyn3qi3be-nodejs-repository
+spec:
+  url: https://github.com/chetna14manku-org/kyn3qi3be-nodejs
